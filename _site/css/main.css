@@ -1,0 +1,12 @@
+.social-icons a, .social-icons a:focus{
+  color: #337ab7;
+  margin-left: 10px
+}
+
+.social-icons a:hover {
+  color: #ccc
+}
+
+.icon-work {
+  text-align: center;
+}
