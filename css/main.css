@@ -1,10 +1,11 @@
-.social-icons a, .social-icons a:focus{
+.social-icons a,
+.social-icons a:focus {
   color: #337ab7;
-  margin-left: 10px
+  margin-left: 10px;
 }
 
 .social-icons a:hover {
-  color: #ccc
+  color: #ccc;
 }
 
 .icon-work {
